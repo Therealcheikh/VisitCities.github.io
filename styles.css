@@ -41,7 +41,7 @@ nav li {
 .sagrada {
     border: 1px white solid;
     border-radius: 35px;
-    background-image: url("../images/la sagrada familia/R.jpeg");
+    background-image: url("R.jpeg");
     background-size: cover;
     height: 125px;
     width: 200px;
