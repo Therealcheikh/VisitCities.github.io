@@ -14,7 +14,7 @@
 
 body {
     border: 0px;
-    background-image: url('backgroundsagrada.jpg');
+    background-image: url("backgroundsagrada.jpg");
     background-size: cover;
     height: auto;
     width: auto;
