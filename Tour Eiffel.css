@@ -1,7 +1,5 @@
 .logo {
     display: block;
-    /* margin: 0 auto; */
-    /* height: 200%; */
     width: 100%;
 }
 
@@ -16,7 +14,7 @@
 
 body {
     border: 0px;
-    background-image: url("../images/Tour Eiffel/backgroundeiffel.jpg");
+    background-image: url("backgroundeiffel.jpg");
     background-size: cover;
     height: auto;
     width: auto;
