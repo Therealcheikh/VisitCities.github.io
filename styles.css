@@ -4,9 +4,9 @@
     width: 40%;
 }
 
-body {
+.body {
     background-size: cover;
-    background-image: img (backgroundaccueil.jpg);
+    background-image: url("backgroundaccueil.jpg");
 }
 
 .big-title {
