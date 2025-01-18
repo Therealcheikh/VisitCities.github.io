@@ -4,7 +4,7 @@
     width: 40%;
 }
 
-.body {
+body {
     background-size: cover;
     background-image: url("backgroundaccueil.jpg");
 }
