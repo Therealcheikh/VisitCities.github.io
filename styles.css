@@ -1,0 +1,84 @@
+.logo {
+    display: block;
+    margin: 0 auto;
+    width: 40%;
+}
+
+body {
+    background-size: cover;
+    background-image: url("../images/backgroundaccueil.jpg");
+}
+
+.big-title {
+    color: white;
+    font-size: 300%;
+    font-weight:bold;
+    font-style: italic;
+    text-align: center;
+    margin-top: 3%;
+}
+
+.nav {
+    display: block;
+    margin: 0 auto;
+    width: 93%;
+    height: 125px;
+    display: flex;
+    list-style: none;
+    text-align: center;
+    color: white;
+    justify-content: space-between;
+    align-items: center;
+}
+
+nav li {
+    align-content: center;
+    font-size: x-large;
+    font-weight: bold;
+    color: aliceblue;
+}
+
+.sagrada {
+    border: 1px white solid;
+    border-radius: 35px;
+    background-image: url("../images/la sagrada familia/R.jpeg");
+    background-size: cover;
+    height: 125px;
+    width: 200px;
+}
+
+.griffith {
+    border: 1px white solid;
+    border-radius: 35px;
+    background-image: url("../images/Observatoir Griffith/Observatoire Griffith.jpg");
+    background-size: cover;
+    height: 125px;
+    width: 200px;
+}
+
+.eiffel {
+    border: 1px white solid;
+    border-radius: 35px;
+    background-image: url("../images/Tour Eiffel/Eiffel tower 2.jpg");
+    background-size: cover;
+    height: 125px;
+    width: 200px;
+}
+
+.colisée {
+    border: 1px white solid;
+    border-radius: 35px;
+    background-image: url("../images/Colisée/colisée accueil.jpg");
+    background-size: cover;
+    height: 125px;
+    width: 200px;
+}
+
+.gorée {
+    border: 1px white solid;
+    border-radius: 35px;
+    background-image: url("../images/Gorée/gorée accueil.jpg");
+    background-size: cover;
+    height: 125px;
+    width: 200px;
+}
